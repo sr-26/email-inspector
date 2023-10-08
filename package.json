@@ -1,6 +1,6 @@
 {
   "name": "email-inspector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js module for email address analysis and validation.",
   "main": "./lib/index.js",
   "types": "./index.d.ts",
