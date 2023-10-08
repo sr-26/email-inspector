@@ -1,6 +1,6 @@
 {
   "name": "email-inspector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js module for email address analysis and validation.",
   "main": "index.js",
   "scripts": {
@@ -38,5 +38,13 @@
   "license": "MIT",
   "dependencies": {
     "joi": "^17.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sr-26/email-inspector"
+  },
+  "bugs": {
+    "url": "https://github.com/sr-26/email-inspector"
+  },
+  "homepage": "https://github.com/sr-26/email-inspector#readme"
 }
