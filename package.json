@@ -1,0 +1,42 @@
+{
+  "name": "email-inspector",
+  "version": "1.0.0",
+  "description": "A Node.js module for email address analysis and validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "validation",
+    "analysis",
+    "security",
+    "email validation",
+    "email verification",
+    "email address validation",
+    "email format validation",
+    "email checker",
+    "email utility",
+    "email domain validation",
+    "email address verification",
+    "email format checker",
+    "email domain checker",
+    "email address utility",
+    "email validation library",
+    "email verification tool",
+    "email domain verification",
+    "email validation helper",
+    "email format utility",
+    "email address format",
+    "email domain format",
+    "validate email",
+    "inspect email",
+    "company email",
+    "business email"
+  ],
+  "author": "Weasely",
+  "license": "MIT",
+  "dependencies": {
+    "joi": "^17.11.0"
+  }
+}
