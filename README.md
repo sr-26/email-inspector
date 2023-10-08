@@ -44,9 +44,9 @@ To learn more about the IANA list of registered TLDs, visit [IANA's official web
 
 You can customize the behavior of Email Inspector using the following options:
 
-customFreeProviders (Array): An array of custom free email providers to consider during validation.
+1. customFreeProviders (Array): An array of custom free email providers to consider during validation.
 
-providersToRemove (Array): An array of email providers to exclude from the list of free providers during validation.
+2. providersToRemove (Array): An array of email providers to exclude from the list of free providers during validation.
 
 
 ## Examples
