@@ -38,6 +38,7 @@
   "author": "Weasely",
   "license": "MIT",
   "dependencies": {
+    "@hapi/tlds": "^1.0.2",
     "joi": "^17.11.0"
   },
   "repository": {
