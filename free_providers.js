@@ -16345,4 +16345,4 @@ const free_providers = [
     "zzom.co.uksina.com",
     "zzz.com",
     "zzz.pl"]
-module.exports = new Set(free_providers);
+export default new Set(free_providers);
