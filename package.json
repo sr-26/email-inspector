@@ -38,7 +38,7 @@
   "author": "Weasely",
   "license": "MIT",
   "dependencies": {
-    "joi": "^17.11.0"
+    "isemail": "^3.2.0"
   },
   "repository": {
     "type": "git",
