@@ -31,15 +31,6 @@ if (emailInspector.validate(email)) {
 
 Email Inspector is designed to verify email addresses against a curated list of free email providers. This validation ensures that your business communication remains uninterrupted and can operate smoothly.
 
-## Using IANA List of Registered TLDs
-
-Email Inspector relies on the IANA (Internet Assigned Numbers Authority) list of registered Top-Level Domains (TLDs) to validate email addresses. This list is regularly updated and maintained to include all officially recognized TLDs on the internet.
-
-By leveraging the IANA list, Email Inspector ensures that email addresses are validated against the most up-to-date and comprehensive collection of TLDs. This helps you maintain accurate email validation and ensures that your application remains in compliance with internet standards.
-
-To learn more about the IANA list of registered TLDs, visit [IANA's official website](https://www.iana.org/domains/root/db).
-
-
 ## Options
 
 You can customize the behavior of Email Inspector using the following options:
